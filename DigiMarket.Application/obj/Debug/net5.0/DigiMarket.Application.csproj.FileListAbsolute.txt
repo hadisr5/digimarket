@@ -1,0 +1,15 @@
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\bin\Debug\net5.0\DigiMarket.Domain.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.csprojAssemblyReference.cache
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.AssemblyInfoInputs.cache
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.AssemblyInfo.cs
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\bin\Debug\net5.0\DigiMarket.Application.deps.json
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\bin\Debug\net5.0\DigiMarket.Application.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\bin\Debug\net5.0\ref\DigiMarket.Application.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\bin\Debug\net5.0\DigiMarket.Application.pdb
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\bin\Debug\net5.0\DigiMarket.Domain.pdb
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.csproj.CoreCompileInputs.cache
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.csproj.CopyComplete
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\ref\DigiMarket.Application.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Application\obj\Debug\net5.0\DigiMarket.Application.pdb

@@ -1,0 +1,12 @@
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\bin\Debug\net5.0\DigiMarket.Infrastructure.deps.json
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\bin\Debug\net5.0\DigiMarket.Infrastructure.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\bin\Debug\net5.0\ref\DigiMarket.Infrastructure.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\bin\Debug\net5.0\DigiMarket.Infrastructure.pdb
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\DigiMarket.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\DigiMarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\DigiMarket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\DigiMarket.Infrastructure.AssemblyInfo.cs
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\DigiMarket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\DigiMarket.Infrastructure.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\ref\DigiMarket.Infrastructure.dll
+C:\Users\Surfce\Desktop\digiMarket\DigiMarket.Infrastructure\obj\Debug\net5.0\DigiMarket.Infrastructure.pdb
